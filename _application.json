@@ -1,0 +1,19 @@
+{
+	"name": "TrevorPatch.com",
+	
+	"error_exemptips": "127.0.0.1",
+	"error_timeout": 300,
+	"error_email": "error@localhost",
+	
+	"live_domain": "http://trevorpatch.com",
+	"live_dsn": "",
+	"live_library": "_library",
+	
+	"dev_domain": "http://dev",
+	"dev_dsn": "",
+	"dev_library": "_library",
+	
+	"local_domain": "http://localhost:8500/CFIDE/PersonalSite/PersonalSite/",
+	"local_dsn": "",
+	"local_library": "_library"
+}
